@@ -20,6 +20,6 @@ print(20* '-')
 """
 
 num = int(input("type a number to know its multiplication table: "))
-cont=[]
-for cont in range (11):
+cont = []
+for cont in range(11):
     print('{} x {} = {}'.format(num, cont, num*cont))
