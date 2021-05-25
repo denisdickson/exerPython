@@ -2,7 +2,6 @@
 fazer um programa que leia um número inteiro e mostre sua tabuada
 
 
-
 numero = int(input("Digite um número para saber sua  tabuada: "))
 print(20* '-')
 print('{} x {:2} = {}'.format(numero, 1, numero*1))
